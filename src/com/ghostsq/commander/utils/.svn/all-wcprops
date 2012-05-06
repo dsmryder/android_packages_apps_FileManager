@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ghostcommander/!svn/ver/350/src/com/ghostsq/commander/utils
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ghostcommander/!svn/ver/344/src/com/ghostsq/commander/utils/Utils.java
+END
+MnfUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ghostcommander/!svn/ver/315/src/com/ghostsq/commander/utils/MnfUtils.java
+END
+ForwardCompat.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ghostcommander/!svn/ver/341/src/com/ghostsq/commander/utils/ForwardCompat.java
+END
+FTP.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ghostcommander/!svn/ver/350/src/com/ghostsq/commander/utils/FTP.java
+END
+Credentials.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ghostcommander/!svn/ver/344/src/com/ghostsq/commander/utils/Credentials.java
+END
+LsItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ghostcommander/!svn/ver/330/src/com/ghostsq/commander/utils/LsItem.java
+END

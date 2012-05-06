@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ghostcommander/!svn/ver/351/src/com/ghostsq/commander/adapters
+END
+FavsAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ghostcommander/!svn/ver/340/src/com/ghostsq/commander/adapters/FavsAdapter.java
+END
+CommanderAdapterBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/ghostcommander/!svn/ver/338/src/com/ghostsq/commander/adapters/CommanderAdapterBase.java
+END
+FindAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ghostcommander/!svn/ver/340/src/com/ghostsq/commander/adapters/FindAdapter.java
+END
+CA.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ghostcommander/!svn/ver/343/src/com/ghostsq/commander/adapters/CA.java
+END
+ZipAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ghostcommander/!svn/ver/342/src/com/ghostsq/commander/adapters/ZipAdapter.java
+END
+AppsAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ghostcommander/!svn/ver/340/src/com/ghostsq/commander/adapters/AppsAdapter.java
+END
+Engine.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ghostcommander/!svn/ver/344/src/com/ghostsq/commander/adapters/Engine.java
+END
+CommanderAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ghostcommander/!svn/ver/340/src/com/ghostsq/commander/adapters/CommanderAdapter.java
+END
+FSAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ghostcommander/!svn/ver/344/src/com/ghostsq/commander/adapters/FSAdapter.java
+END
+HomeAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ghostcommander/!svn/ver/340/src/com/ghostsq/commander/adapters/HomeAdapter.java
+END
+FTPAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ghostcommander/!svn/ver/351/src/com/ghostsq/commander/adapters/FTPAdapter.java
+END
